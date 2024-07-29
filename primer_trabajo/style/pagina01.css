@@ -1,0 +1,29 @@
+th{
+    padding: 8px;
+    background-color: bisque;
+}
+tr{
+    border: 1px;
+    border-color: red;
+    background-color: aqua;
+}
+table{
+    padding: 0px;
+    margin: 0px;
+    border-spacing: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 0.8m;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: #857332;
+}
+th,td{
+    padding: 0.5m;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: black;
+}
+.navbar{
+    width: 100% !important;
+    height: 80px !important;
+}
